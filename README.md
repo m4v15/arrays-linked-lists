@@ -1,4 +1,5 @@
 # Computer Science Arrays & Linked List Exercises
 
-1. [./singly_linkedLists_exercise](Singly Linked Lists)
-2. [./doubly_linkedLists_exercise](Doubly Linked Lists)
+1.[Singly Linked Lists](./singly_linkedLists_exercise)
+
+2.[Doubly Linked Lists](./doubly_linkedLists_exercise)
